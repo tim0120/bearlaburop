@@ -1,7 +1,10 @@
 # Old work (DSNN.jl, SPADE) #
 old/
 
+# Bear's textbok "
 beartextbook.pdf
 
+# Not needed in project #
 .DS_Store
 .vscode/
+venv/
